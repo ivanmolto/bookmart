@@ -1,6 +1,9 @@
 import injectedModule from "@web3-onboard/injected-wallets";
+import argentModule from "@web3-onboard/argent";
 
 import { init } from "@web3-onboard/react";
+
+const argent = argentModule();
 
 const injected = injectedModule({
   custom: [
@@ -13,7 +16,7 @@ const injected = injectedModule({
 
 export default init({
   // An array of wallet modules that you would like to be presented to the user to select from when connecting a wallet.
-  wallets: [injected],
+  wallets: [injected, argent],
   // An array of Chains that your app supports
   chains: [
     {
