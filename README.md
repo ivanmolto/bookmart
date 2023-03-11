@@ -1,6 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# BOOKM.ART
+
+## Introduction
+
+The most beautiful, powerful and intriguing objects have one thing in common: they live in galleries, libraries, archives, and museums (GLAM). All of them are institutions that collect and maintain cultural heritage materials in the public interest.
+
+bookm.art is an open source platform powering the GLAM sector with richer digital experiences for their visitors on site and online using the NFT technology from RMRK built on zkSync Era.
+
+bookm.art explore an innovative way of sharing stories and collections of content using the multi-asset and nested NFT smart contract implementations by the RMRK Team. From now the stories can be about a single object or a wider collection, but they always have a strong visual narrative binding assets such as images, audio, and video files.
+
+Some of the benefits of nested and multi-assets NFTs for the GLAM sector are:
+
+- Feature content collections, previews of exhibitions, or virtual tours.
+- Promote perks and authenticity.
+- Create a digital gift for someone you care about.
+- Ensure more emotional, personal, and playful encounter with art.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
