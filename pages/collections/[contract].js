@@ -192,7 +192,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const collectionData = getCollectionData(params.id);
+  const collectionData = getCollectionData(params.contract);
   return {
     props: {
       collectionData,
