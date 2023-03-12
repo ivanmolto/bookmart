@@ -31,6 +31,10 @@ https://github.com/ivanmolto/era-smart-contracts-playground/tree/zksync
 
 ## Frontend
 
+![](00-frontend-home.jpg)
+
+![](01-frontend-collection-details.jpg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
