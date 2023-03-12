@@ -11,7 +11,7 @@ const Menu = () => {
             <div className="flex-shrink-0 flex items-center">
               <Link href="/">
                 <div
-                  aria-label="Bookm.Art"
+                  aria-label="bookm.art"
                   className="inline-flex items-center"
                 >
                   <svg
