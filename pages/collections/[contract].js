@@ -118,24 +118,16 @@ export default function Collection(collectionData) {
               </div>
 
               <div className="mt-6">
+                <span className="text-gray-400">
+                  If you are whitelisted you can start to accept assets
+                </span>
                 <div className="sm:flex-col1 mt-10 flex">
                   <button
                     type="submit"
                     disabled
                     className="flex max-w-xs flex-1 items-center justify-center rounded-md border border-transparent bg-sky-500 py-3 px-8 text-base font-medium text-white hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-50 sm:w-full"
                   >
-                    Mint
-                  </button>
-
-                  <button
-                    type="button"
-                    className="ml-4 flex items-center justify-center rounded-md py-3 px-3 text-gray-400 hover:bg-gray-100 hover:text-gray-500"
-                  >
-                    <HeartIcon
-                      className="h-6 w-6 flex-shrink-0"
-                      aria-hidden="true"
-                    />
-                    <span className="sr-only">Add to favorites</span>
+                    Accept Asset
                   </button>
                 </div>
               </div>
