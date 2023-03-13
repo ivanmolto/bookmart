@@ -30,6 +30,12 @@ Please check the repo with all the smart contracts and interactions [here](https
 Please note that the default branch is **zksync** not the master one
 https://github.com/ivanmolto/era-smart-contracts-playground/tree/zksync
 
+## User Journey
+
+Visitors of a GLAM institution (galleries, libraries, archives and museums) can be whitelisted to get an NFT by sharing their public wallet address while acquiring their ticket for an exhibition or by dropping their ENS in a Twitter thread at https://twitter.com/bookm_art. Once the GLAM staff have minted an NFT to their address and start to add assets to their tokens the visitors can start accepting assets in the collection details page of https://www.bookm.art.
+
+More details and script in the smart contracts repo [here](https://github.com/ivanmolto/era-smart-contracts-playground/blob/zksync/scripts/userJourney.ts)
+
 ## Frontend
 
 ![](00-frontend-home.jpg)
