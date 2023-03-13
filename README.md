@@ -21,6 +21,7 @@ Some of the benefits of nested and multi-assets NFTs for the GLAM sector are:
 - NextJS (React)
 - Tailwind CSS
 - Blocknative (Web3-onboard) for Metamask and Argent.
+- Pinata (IPFS)
 
 ## Smart Contracts
 
@@ -54,3 +55,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## License
+
+The code is licensed under a MIT License.
+Assets from Blender Studio are licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/) (license is also embedded in the metadata of each asset).
